@@ -1,0 +1,18 @@
+.checkout{
+    border: 1px solid gray;
+    padding:10px;
+    margin: 10px;
+}
+
+.checkout img{
+    width:80px;
+    margin-left: 50px;
+}
+
+.center{
+    margin-left: 40px;
+    padding: 20px;
+}
+.checkBox{
+    margin-left:20%;
+}

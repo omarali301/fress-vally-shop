@@ -1,0 +1,25 @@
+.orderBox{
+    /* float:left; */
+    border: 1px solid gray;
+    margin: 5px;
+   margin-left: 50px;
+   list-style: none;
+   width: 500px;
+    
+}
+
+.orderBox img{
+    width: 200px;
+
+}
+.nameGap{
+    margin-left: 30px;
+}
+.priceGap{
+    margin-left: 100px;
+}
+
+.btn-success{
+    margin-left: 30px;
+    border-left: 1px solid gray;
+}
